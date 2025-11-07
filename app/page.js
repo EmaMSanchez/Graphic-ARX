@@ -365,3 +365,4 @@ const calculateReturns = (trades, leverageMultiplier = 1, initialCapital = 100) 
 };
 
 
+
